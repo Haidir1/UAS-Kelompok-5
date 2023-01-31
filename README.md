@@ -1,16 +1,6 @@
 # Aplikasi Prediksi Air Untuk Dikonsumsi Manusia
 
-Air adalah salah satu senyawa yang kompleks karena mengandung zat dan mineral.
-Namun, tubuh manusia tidak dapat mencerna semua zat dan mineralnya
-terkandung di dalam air. Airnya juga bisa terkontaminasi bakteri
-dan mineral berbahaya bagi tubuh manusia. Ini mungkin karena
-karena kontaminasi sumber air atau kedekatan sumber air.
-Begitu pentingnya peran air dalam kehidupan yang bisa dikatakan demikian
-bahwa kualitas air dapat digunakan sebagai indikator kesehatan manusia. Pemantauan dan 
-pengelolaan lingkungan sumber air sangat diperlukandapat menghasilkan air bersih yang 
-memenuhi persyaratan kualitas air bersih, dan memenuhi kebutuhan air untuk konsumsi manusia. 
-Kualitas air memenuhi persyaratan kesehatandapat mengetahui tentang zat atau mineral yang 
-terkandung di dalam air
+
 ============================================================================================
 
 Sebelum menjalankan aplikasi lakukan install package pada
